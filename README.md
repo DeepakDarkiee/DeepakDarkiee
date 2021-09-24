@@ -50,4 +50,4 @@ Hi, I'm Deepak, but you can call me **Deep**.
   - :bulb: [My articles](https://djangobabu.com/)
   - :pencil2: [facebook](https://www.facebook.com/MindzWorld/)
   - :office: [LinkedIn](https://in.linkedin.com/in/deepak-kumar-patidar-482308189)
-![Deepak GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepakDarkiee&show_icons=true)
+
