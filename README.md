@@ -4,14 +4,14 @@
 <!--                         HERO HEADER                               -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2540,100:0d1b2a&height=210&section=header&text=Deepak%20Patidar&fontSize=62&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Senior%20Python%20Developer%20%26%20AI%20Engineer&descAlignY=60&descAlign=50&descColor=79c0ff&stroke=58a6ff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:312e81&height=220&section=header&text=Deepak%20Patidar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Python%20Developer%20%26%20AI%20Engineer&descAlignY=60&descAlign=50&descColor=a5b4fc&stroke=818cf8&strokeWidth=1.5" width="100%"/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                      ANIMATED TYPING                              -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=🐍+Senior+Python+Developer+%26+AI+Engineer;🤖+LangChain+%7C+LangGraph+%7C+OpenAI+APIs;🧠+TensorFlow+%7C+PyTorch+%7C+Vector+Databases;☁️+AWS+Certified+Cloud+%26+ML+Specialist;⚡+FastAPI+%7C+Django+%7C+MLOps+%7C+Microservices;📍+Indore%2C+India+→+Building+for+the+World+🌍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=818CF8&center=true&vCenter=true&random=false&width=750&lines=🐍+Senior+Python+Developer+%26+AI+Engineer;🤖+LangChain+%7C+LangGraph+%7C+OpenAI+APIs;🧠+TensorFlow+%7C+PyTorch+%7C+Vector+Databases;☁️+AWS+Certified+Cloud+%26+ML+Specialist;⚡+FastAPI+%7C+Django+%7C+MLOps+%7C+Microservices;📍+Indore%2C+India+→+Building+for+the+World+🌍" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,11 +20,11 @@
 <!--                   PROFILE BADGES ROW                              -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-[![Profile Views](https://komarev.com/ghpvc/?username=DeepakDarkiee&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/DeepakDarkiee)
-[![GitHub followers](https://img.shields.io/github/followers/DeepakDarkiee?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/DeepakDarkiee?tab=followers)
-[![Repos](https://img.shields.io/badge/REPOSITORIES-63-58a6ff?style=for-the-badge&labelColor=0d1117)](https://github.com/DeepakDarkiee?tab=repositories)
-[![AWS Certified](https://img.shields.io/badge/AWS-CERTIFIED-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117)](https://deepakpatidar.in)
-[![Open to Work](https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20PROJECTS-2ea043?style=for-the-badge&labelColor=0d1117)](mailto:info.deepakpatidar@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=DeepakDarkiee&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)](https://github.com/DeepakDarkiee)
+[![GitHub followers](https://img.shields.io/github/followers/DeepakDarkiee?style=for-the-badge&color=818cf8&labelColor=1e1b4b&label=FOLLOWERS)](https://github.com/DeepakDarkiee?tab=followers)
+[![Repos](https://img.shields.io/badge/REPOSITORIES-63-818cf8?style=for-the-badge&labelColor=1e1b4b)](https://github.com/DeepakDarkiee?tab=repositories)
+[![AWS Certified](https://img.shields.io/badge/AWS-CERTIFIED-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1e1b4b)](https://deepakpatidar.in)
+[![Open to Work](https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20PROJECTS-22c55e?style=for-the-badge&labelColor=1e1b4b)](mailto:info.deepakpatidar@gmail.com)
 
 </div>
 
@@ -93,10 +93,11 @@ me.say_hi()
 
 ### 🧩 LLM Frameworks & Agents
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=58a6ff)
+![LangGraph](https://img.shields.io/badge/LangGraph-1E1B4B?style=for-the-badge&logo=langchain&logoColor=a5b4fc)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-1E1B4B?style=for-the-badge&logo=ollama&logoColor=a5b4fc)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logoColor=white)
 
 ### 🧠 Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -105,7 +106,7 @@ me.say_hi()
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 🗃️ Vector Databases
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-1E1B4B?style=for-the-badge&logoColor=a5b4fc)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-5C4EE5?style=for-the-badge&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
@@ -170,14 +171,14 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeepakDarkiee&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakDarkiee&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeepakDarkiee&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=e2e8f0" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakDarkiee&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=e2e8f0" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DeepakDarkiee&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" width="55%"/>
+<img src="https://streak-stats.demolab.com?user=DeepakDarkiee&theme=github-dark-blue&hide_border=true&background=0d1117&ring=818cf8&fire=f472b6&currStreakLabel=818cf8&sideLabels=e2e8f0&dates=8b949e&currStreakNum=e2e8f0&sideNums=e2e8f0" alt="GitHub Streak" width="55%"/>
 
 </div>
 
@@ -191,7 +192,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DeepakDarkiee&theme=darkhub&no-frame=true&no-bg=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DeepakDarkiee&theme=radical&no-frame=true&no-bg=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
@@ -205,7 +206,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepakDarkiee&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=0a2540&hide_border=true" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepakDarkiee&bg_color=0d1117&color=818cf8&line=a78bfa&point=f472b6&area=true&area_color=1e1b4b&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 </div>
 
@@ -219,7 +220,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Synapse AI](https://github-readme-stats.vercel.app/api/pin/?username=DeepakDarkiee&repo=Synapse-Just-a-First-AI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9)](https://github.com/DeepakDarkiee/Synapse-Just-a-First-AI)
+[![Synapse AI](https://github-readme-stats.vercel.app/api/pin/?username=DeepakDarkiee&repo=Synapse-Just-a-First-AI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=e2e8f0)](https://github.com/DeepakDarkiee/Synapse-Just-a-First-AI)
 
 </div>
 
@@ -233,14 +234,14 @@ me.say_hi()
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-deepakpatidar.in-58a6ff?style=for-the-badge&logoColor=white)](https://deepakpatidar.in)
-[![Articles](https://img.shields.io/badge/📝%20Articles-article.deepakpatidar.in-ff6b6b?style=for-the-badge)](https://article.deepakpatidar.in)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-deepakpatidar.in-818cf8?style=for-the-badge&labelColor=1e1b4b)](https://deepakpatidar.in)
+[![Articles](https://img.shields.io/badge/📝%20Articles-article.deepakpatidar.in-f472b6?style=for-the-badge&labelColor=1e1b4b)](https://article.deepakpatidar.in)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deepak-patidar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-patidar-darkiee/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepakDarkiee)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DeepakDarkiee)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deep_patidar.py/)
-[![Resume](https://img.shields.io/badge/📄%20Resume-Download-2ea043?style=for-the-badge)](https://drive.google.com/file/d/1WkriGsvGJ83TdWaEvfdJqia6wk76Bpvw/view)
+[![Resume](https://img.shields.io/badge/📄%20Resume-Download-22c55e?style=for-the-badge&labelColor=1e1b4b)](https://drive.google.com/file/d/1WkriGsvGJ83TdWaEvfdJqia6wk76Bpvw/view)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.deepakpatidar@gmail.com)
 
 </div>
@@ -277,6 +278,6 @@ me.say_hi()
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:0a2540,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:1e1b4b,100:0f172a&height=120&section=footer" width="100%"/>
 
 </div>
