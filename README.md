@@ -4,7 +4,7 @@
 <!--                          HERO HEADER                               -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e1b4b,60:312e81,100:4c1d95&height=240&section=header&text=Deepak%20Patidar&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Python%20Developer%20%26%20AI%20Engineer&descAlignY=58&descAlign=50&descColor=a5b4fc&v=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e1b4b,60:312e81,100:4c1d95&height=240&section=header&text=Deepak%20Patidar&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Senior+Python+Developer+and+AI+Engineer&descAlignY=58&descAlign=50&descColor=a5b4fc&v=4" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                       ANIMATED TYPING                              -->
@@ -379,6 +379,6 @@ deepak.say_hi()
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,40:312e81,70:1e1b4b,100:0f172a&height=130&section=footer&v=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,40:312e81,70:1e1b4b,100:0f172a&height=130&section=footer&v=4" width="100%"/>
 
 </div>
