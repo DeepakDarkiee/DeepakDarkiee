@@ -4,14 +4,14 @@
 <!--                          HERO HEADER                               -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e1b4b,60:312e81,100:4c1d95&height=240&section=header&text=Deepak%20Patidar&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Python%20Developer%20%26%20AI%20Engineer&descAlignY=58&descAlign=50&descColor=a5b4fc&stroke=818cf8&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e1b4b,60:312e81,100:4c1d95&height=240&section=header&text=Deepak%20Patidar&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Python%20Developer%20%26%20AI%20Engineer&descAlignY=58&descAlign=50&descColor=a5b4fc&v=3" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                       ANIMATED TYPING                              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=900&color=818CF8&center=true&vCenter=true&random=false&width=720&height=48&lines=🤖+Building+AI+Agents+that+ship+to+production;🧠+LangChain+·+LangGraph+·+OpenAI+·+HuggingFace;☁️+AWS+Certified+Cloud+%26+ML+Specialist;⚡+FastAPI+·+Django+·+Celery+·+Microservices;🗃️+Vector+DBs+·+RAG+·+Embeddings+·+MLOps;📍+Indore%2C+India+→+Building+for+the+World+🌍" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=900&color=818CF8&center=true&vCenter=true&random=false&width=720&height=48&v=3&lines=Building+AI+Agents+that+ship+to+production;LangChain+%7C+LangGraph+%7C+OpenAI+%7C+HuggingFace;AWS+Certified+Cloud+%26+ML+Specialist;FastAPI+%7C+Django+%7C+Celery+%7C+Microservices;Vector+DBs+%7C+RAG+%7C+Embeddings+%7C+MLOps;Indore%2C+India+%E2%86%92+Building+for+the+World" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -236,11 +236,15 @@ deepak.say_hi()
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=DeepakDarkiee&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=e2e8f0&border_radius=16" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeepakDarkiee&theme=github_dark" height="165" alt="Stats"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakDarkiee&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=e2e8f0&border_radius=16" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeepakDarkiee&theme=github_dark" height="165" alt="Languages"/>
 
 <br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeepakDarkiee&theme=github_dark" width="100%" alt="Profile Details"/>
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=DeepakDarkiee&theme=github-dark-blue&hide_border=true&background=0d1117&ring=818cf8&fire=f472b6&currStreakLabel=818cf8&sideLabels=e2e8f0&dates=8b949e&currStreakNum=e2e8f0&sideNums=e2e8f0&border_radius=16" alt="GitHub Streak" width="55%"/>
 
@@ -284,9 +288,22 @@ deepak.say_hi()
 
 <div align="center">
 
-[![Synapse AI](https://github-readme-stats.vercel.app/api/pin/?username=DeepakDarkiee&repo=Synapse-Just-a-First-AI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=e2e8f0&border_radius=16)](https://github.com/DeepakDarkiee/Synapse-Just-a-First-AI)
-&nbsp;
-[![More Repos](https://github-readme-stats.vercel.app/api/pin/?username=DeepakDarkiee&repo=DeepakDarkiee&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=e2e8f0&border_radius=16)](https://github.com/DeepakDarkiee?tab=repositories)
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td align="center">
+  <a href="https://github.com/DeepakDarkiee/Synapse-Just-a-First-AI">
+    <img src="https://img.shields.io/badge/🤖_Synapse_AI-First_AI_Project-818cf8?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b"/>
+  </a>
+  <br/><br/><sub>LangChain · OpenAI · Python · AI Agent</sub>
+</td>
+<td align="center">
+  <a href="https://github.com/DeepakDarkiee?tab=repositories">
+    <img src="https://img.shields.io/badge/📦_All_Repos-63%2B_Public-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b"/>
+  </a>
+  <br/><br/><sub>AI · Backend · Cloud · MLOps · Open Source</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -362,6 +379,6 @@ deepak.say_hi()
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,40:312e81,70:1e1b4b,100:0f172a&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,40:312e81,70:1e1b4b,100:0f172a&height=130&section=footer&v=3" width="100%"/>
 
 </div>
